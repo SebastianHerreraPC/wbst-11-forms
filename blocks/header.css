@@ -1,0 +1,97 @@
+.header {
+  margin-top: 40px;
+  background-color: #f2f9fd;
+  display: flex;
+  flex-direction: column;
+  justify-content: c;
+}
+.header__elements {
+}
+.nav {
+}
+.logo {
+  margin: 40px auto 0;
+  justify-content: center;
+  align-items: center;
+  width: 172px;
+  height: 84px;
+}
+.nav__logo {
+}
+.nav__link {
+}
+.header__title {
+  justify-content: center;
+  margin: 0 40px 0;
+  color: #155777;
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+  font-size: 50px;
+  text-align: center;
+  text-transform: uppercase;
+}
+.header__span-accent {
+  color: #269fd1;
+  font-family: "Inter", sans-serif;
+  font-size: 55px;
+  font-weight: bold;
+  margin-right: 5px; /* Ajusta el espacio a la derecha */
+  margin-left: 5px; /* Ajusta el espacio a la izquierda */
+}
+.header__subtitle {
+  min-width: 1030px;
+  font-family: "Montserrat", sans-serif;
+  color: #155777;
+
+  margin: 0 auto 80px;
+  padding: 0;
+  text-align: center;
+  font-weight: bold;
+  font-size: 25px;
+}
+.header__info-container {
+  display: flex;
+
+  margin: 0px auto;
+}
+
+.info__dates-container {
+  display: flex;
+  margin: 0 auto;
+}
+.info__dayhour {
+  display: flex;
+  flex-direction: column;
+  font-family: "Montserrat", sans-serif;
+}
+.dayhour__days {
+  display: flex;
+  margin: 0px auto;
+}
+
+.dayhour__number {
+  font-size: 110px;
+  margin-bottom: 0;
+}
+.dayhour_texts {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: center;
+}
+.dayhour__day {
+  font-size: 30px;
+}
+.dayhour__month {
+  font-size: 40px;
+}
+.dayhour__hour {
+  border-top: 8px solid #6ebfaa;
+  margin: auto;
+  padding: 20px;
+
+  font-size: 30px;
+}
+.info__description {
+}

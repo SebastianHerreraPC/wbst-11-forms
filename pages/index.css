@@ -1,0 +1,22 @@
+@import url(/blocks/header.css);
+
+/* font-family: "Montserrat", sans-serif;
+font-family: "Inter", sans-serif; */
+body {
+  background-color: #000;
+  color: black;
+
+  font-size: 16px;
+  font-weight: normal;
+  height: 100%;
+  line-height: 1.5;
+  margin: auto;
+  max-width: 1400px;
+}
+div {
+}
+
+.page {
+}
+.page2 {
+}
